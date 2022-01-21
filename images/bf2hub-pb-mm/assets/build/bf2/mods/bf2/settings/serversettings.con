@@ -1,5 +1,5 @@
 sv.serverName "{{server_name}}"
-sv.password ""
+sv.password "bwmbfo"
 sv.internet 1
 sv.serverIP "0.0.0.0"
 sv.serverPort {{server_port}}
